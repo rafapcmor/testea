@@ -1,1 +1,1 @@
-![Rafa](IMG_6605.JPG)
+![Rafa](assets/IMG_6605.JPG)
